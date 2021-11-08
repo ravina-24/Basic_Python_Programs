@@ -5,7 +5,7 @@ def printName() :
  checkLength = len(UserName)
 
  if (checkLength >= 3) :
-          print ("Hello " + UserName + "  How are you?")
+          print ("Hello " + UserName + " , How are you?")
  else :
      print ("Username should have atleast three characters")
      printName()
