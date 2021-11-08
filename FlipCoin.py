@@ -1,4 +1,14 @@
 
+
+"""
+@Author: Ravina Maudekar
+@Date: 2021-08-11 8:26:00
+@Last Modified by: Ravina Maudekar
+@Last Modified time: 2021-08-11 12:24:24
+@Title : To print the power of 2 
+
+""" 
+
 TakeInput = int(input("Enter how many times you want to flip the coin : "))
 
 i =1
