@@ -16,11 +16,8 @@ print("Harmonic series : ")
 while (i<=Num and Num !=0 ) :
 
     print ("{}/{} +".format(1,i) ,end=" ")
-   
     harmonicseries =harmonicseries+ 1/i 
-    
     i+=1
-
 
 print()
 print("Sum of harmonic series = {} ".format(harmonicseries) )
