@@ -1,13 +1,12 @@
 
 """
 @Author: Ravina Maudekar
-@Date: 2021-08-11 12:00:24
+@Date: 2021-08-11 08:24:00
 @Last Modified by: Ravina Maudekar
-@Last Modified time: 2021-08-11 12:00:24
-@Title : To print the power of 2 
+@Last Modified time: 2021-08-11 12:35:00
+@Title : To print the power of two
 
 """ 
-
 
 def printPower() :
 
@@ -19,9 +18,7 @@ def printPower() :
        powerOfTwo = 2 ** i
        print(powerOfTwo)
        i+=1
-
-
-
+       
 printPower()       
 
 
