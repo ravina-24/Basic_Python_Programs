@@ -28,15 +28,11 @@ while (i<=TakeInput):
         else :
              print("Head")
              countofHeads +=1 
-
-
-                        
-
+                     
 PercentageofHeads = (countofHeads *100/TakeInput)
 print("Percentage of head = ")
 print(PercentageofHeads)
 
-              
 PercentageOfTails = 100 - PercentageofHeads
 print("Percentage of tail = ")
 print(PercentageOfTails)
