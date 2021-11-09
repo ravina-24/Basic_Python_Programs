@@ -21,6 +21,4 @@ def printName() :
      print ("Username should have atleast three characters")
      printName()
 
-
-
 printName()
