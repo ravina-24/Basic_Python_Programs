@@ -8,7 +8,6 @@
 
 """ 
 
-
 def printName() :
 
  UserName = input("Enter the name : ")
@@ -20,7 +19,5 @@ def printName() :
  else :
      print ("Username should have atleast three characters")
      printName()
-
-
 
 printName()
