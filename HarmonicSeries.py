@@ -25,12 +25,6 @@ while (i<=Num and Num !=0 ) :
     i+=1
 
 
-    
-
-
-   
-
-
 print()
 print("Sum of harmonic series = {} ".format(harmonicseries) )
 
