@@ -20,8 +20,6 @@ def printPower() :
        print(powerOfTwo)
        i+=1
 
-
-
 printPower()       
 
 
