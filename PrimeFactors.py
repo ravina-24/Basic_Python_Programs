@@ -16,7 +16,7 @@ while(i<=Num and Num !=0 ) :
     
     if Num%i == 0 :
          print(i) 
-         
+
     i+=1
 
 
