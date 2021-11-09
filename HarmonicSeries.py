@@ -2,7 +2,7 @@
 @Author: Ravina Maudekar
 @Date: 2021-08-11 9:26:00
 @Last Modified by: Ravina Maudekar
-@Last Modified time: 2021-08-11 
+@Last Modified time: 2021-08-11 9:30:00
 @Title : To print the sum of harmonic series .
 
 
