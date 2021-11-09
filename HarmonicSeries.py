@@ -9,16 +9,13 @@
 """ 
 
 Num = int(input("Enter Harmonic value of N  : "))
-
 i=1
 harmonicseries = 0
 print("Harmonic series : ")
 while (i<=Num and Num !=0 ) :
 
     print ("{}/{} +".format(1,i) ,end=" ")
-   
     harmonicseries =harmonicseries+ 1/i 
-
     i+=1
 
 print()
