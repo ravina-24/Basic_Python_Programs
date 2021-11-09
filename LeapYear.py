@@ -7,12 +7,8 @@
 
 """ 
 
-
-
-
-
-def findLeapYear() :
-           
+def findLeapYear() : 
+         
     inputYear = int(input("Enter year  : "))
   
     checkLength = str(inputYear)
@@ -27,9 +23,5 @@ def findLeapYear() :
     else :
         print("Enter year  again : ")
         findLeapYear()
-
-
-
-
 
 findLeapYear()               
