@@ -5,11 +5,12 @@
 @Title : To calculate the ecludean distance between x , y and origin .
 
 """
+
+import math
 try:
     x = float(input("Enter value of x : "))
     y = float(input("Enter value of y : "))
-
-    import math
+    
     ecludeanDistance =math.sqrt(x*x+y*y)
     print("Ecludean distance  = {} ".format(ecludeanDistance))
 
