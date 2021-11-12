@@ -14,13 +14,10 @@ try:
     ecludeanDistance =math.sqrt(x*x+y*y)
     print("Ecludean distance  = {} ".format(ecludeanDistance))
 
+    
 except ValueError:
     print("Sorry, you can not enter string value ! ")
-     
-
-
-
-
+    
 
 
 
