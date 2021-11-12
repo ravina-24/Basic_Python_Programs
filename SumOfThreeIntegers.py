@@ -5,9 +5,9 @@
 @Title : To find the triplets in which sum of three integers adds to zero .
 
 """ 
-
+from array import* 
 try:
-    from array import*  
+    
     length =int(input("Enter the length of array = "))
      
     intArray = array('i' ,[])
