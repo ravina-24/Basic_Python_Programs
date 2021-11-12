@@ -5,9 +5,9 @@
 @Title : To find the triplets in which sum of three integers adds to zero .
 
 """ 
-
+from array import*  
 try:
-    from array import*  
+   
     length =int(input("Enter the length of array = "))
      
     intArray = array('i' ,[])
@@ -25,8 +25,9 @@ try:
                     
                 if(intArray[i] +intArray[j]+intArray[k] == 0):
                             print(intArray[i],intArray[j],intArray[k])  
-                            count +=1                   
-    print("Number of triplets : {}  ".format(count)) 
+                            count +=1 
+
+    print("Number of triplets : {}".format(count)) 
     
 except ValueError :
     print("Sorry, String values are not allowd")
