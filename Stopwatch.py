@@ -10,7 +10,7 @@ class watch:
 
     def findElapedTime(self):
        
-       print("stopwatch application is executed!\n")
+       print()
 
     startTime = float(input("Enter startTime : "))
     endTime = float(input("Enter end time "))
