@@ -11,7 +11,7 @@ import random
 class coupon:
     
     def findDistinctCoupon(self):
-     print("-------------Coupon Number --------------")
+     print()
 
     Num = int(input("Enter the Coupon number : "))  
     set =[]
