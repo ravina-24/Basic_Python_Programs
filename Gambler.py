@@ -13,7 +13,7 @@ from random import randint
 class Gambler:
     def findPercentage(self):
     
-     print("----------------Gambler program ------------------")
+     print()
     stake =int(input("Enter the stake : "))
     goal = int(input("Enter the goals :"))
 
