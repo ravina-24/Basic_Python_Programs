@@ -1,10 +1,8 @@
 
 '''
-@Author: Pawan Gupta
+@Author: Ravina Maudekar
 @Date: 2021-08-20 20:00:00
-@Title : Write a Program to play a Cross Game or Tic-Tac-Toe Game. Player 2
-is the Computer and the Player 1 is the user. Player 2 take Random Cell that is
-the Column and Row
+@Title : Write a Program to play a Cross Game or Tic-Tac-Toe Game.
 '''
 
 import random
