@@ -8,6 +8,9 @@
 @Title : To print the percentage of head and tail 
 
 """ 
+
+
+import random
 TakeInput = int(input("Enter how many times you want to flip the coin : "))
 
 i =1
@@ -17,7 +20,7 @@ countofTails =0
 while (i<=TakeInput):
         i+=1
       
-        import random
+      
         flip = random.uniform(0,1)
 
         print(flip)
