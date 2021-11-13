@@ -34,5 +34,6 @@ class coupon:
     print ("Distinct coupon number {}: ".format(count))
     print(set)
 
+
 c = coupon()
 c.findDistinctCoupon()        
